@@ -1,6 +1,6 @@
-module github.com/myzhan/boomer
+module github.com/naturezhm/boomer
 
-go 1.13
+go 1.17
 
 require (
 	github.com/StackExchange/wmi v1.2.1 // indirect

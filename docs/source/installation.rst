@@ -7,13 +7,13 @@ install:
 
 .. code-block:: console
 
-    $ go get github.com/myzhan/boomer
+    $ go get github.com/naturezhm/boomer
 
 update:
 
 .. code-block:: console
 
-    $ go get -u github.com/myzhan/boomer
+    $ go get -u github.com/naturezhm/boomer
 
 If you want to point to a particular revision of boomer, you should use a dependency management
 tool like `dep <https://github.com/golang/dep>`_ or go module.
